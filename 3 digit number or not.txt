@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
     int a;
-    printf("\n Enter the number: ");
+    printf("\n Enter the number: "); //enter the number here
     scanf("%d",&a);
     if(a>99 && a<1000){
         printf("\n It is a three digit number ");
